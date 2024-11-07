@@ -1,0 +1,11 @@
+/* 2 параметра правил использования и конфедыциальности */
+/*"termsofUseUrl": "<terms-of-use-url>",*/
+/*"privacyPolicyurl": "<privacy-policy-url>
+   в файл json
+"*/
+
+#ton-connect {
+   position: absolute;
+   top: 2%;
+   right: 2%;
+}
